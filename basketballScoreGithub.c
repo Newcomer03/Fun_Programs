@@ -1,6 +1,6 @@
 /* This is a program that displays the Basketball Score of One Quarter of the match
    In this program, the sleep() function is also used for aesthetics
-   This program is developed by: Soumyadeep Das.
+   This program is developed by: Newcomer03.
    Special thanks to Chirag Ghosh */
 
 
@@ -15,7 +15,7 @@ void instructions()
 	printf("* Please do not input non-compatible values during runtime, they may result in errors\n");
 	
 	printf("\nThis program has been solely developed by: \n");
-	printf("\tSoumyadeep Das");
+	printf("\tNewcomer03");
 	printf("\nSpecial thanks to:");
 	printf("\n\tChirag Ghosh\n");
 }
