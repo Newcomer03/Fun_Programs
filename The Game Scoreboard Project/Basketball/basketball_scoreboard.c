@@ -12,7 +12,7 @@ void instructions()
 	printf("Basic Instructions about the execution.\n");
 	printf("* This is a program that displays the Basketball Score of One Quarter of the match\n");
 	printf("* Please make sure you follow the instructions given during the runtime\n");
-	printf("* Please do not input non-compatible values during runtime, they may result in errors\n");
+	printf("* Please do not enter non-compatible values during runtime, they may result in errors\n");
 	
 	printf("\nThis program has been solely developed by: \n");
 	printf("\tNewcomer03");
