@@ -29,7 +29,7 @@ void main()
 {	//This is the main function block
 	instructions();					//This will display some necessary information about the program
 	
-	int scrT1 = 0, scrT2 = 0;		//These will store the total points of Teams 1 & 2.
+	int scrT1 = 0, scrT2 = 0;			//These will store the total points of Teams 1 & 2.
 	int t1 = 0, t2 = 0;				//These are temporary variables that will store points scored by team at each basket.
 	char choice = ' ';				//This will store the choice of the user.
 	
